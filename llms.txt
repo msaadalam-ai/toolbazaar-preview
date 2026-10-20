@@ -17,6 +17,7 @@ Key facts:
 - [About](https://aiwebtools.pk/about/): who runs AI Web Tools and how it works
 - [Privacy](https://aiwebtools.pk/privacy/): what information is collected and why
 - [Terms](https://aiwebtools.pk/terms/): what a buyer gets, refunds, renewals and limits
+- [Editorial policy](https://aiwebtools.pk/editorial-policy/): how the guides are written, sourced and corrected
 
 ## Guides: Buying, licensing and pricing
 - [What a Pro license includes](https://aiwebtools.pk/guides/elementor-pro-license/): What you get with an Elementor Pro license from Elementor, what you get from an AI Web Tools activation at ₨799, and the honest differences.

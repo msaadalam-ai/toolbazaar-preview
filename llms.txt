@@ -14,6 +14,9 @@ Key facts:
 ## Main pages
 - [Elementor Pro price in Pakistan](https://aiwebtools.pk/): the offer, plans, comparison with buying directly, FAQ
 - [Guides](https://aiwebtools.pk/guides/): index of answer-first guides
+- [About](https://aiwebtools.pk/about/): who runs AI Web Tools and how it works
+- [Privacy](https://aiwebtools.pk/privacy/): what information is collected and why
+- [Terms](https://aiwebtools.pk/terms/): what a buyer gets, refunds, renewals and limits
 
 ## Guides: Buying, licensing and pricing
 - [What a Pro license includes](https://aiwebtools.pk/guides/elementor-pro-license/): What you get with an Elementor Pro license from Elementor, what you get from an AI Web Tools activation at ₨799, and the honest differences.
@@ -28,6 +31,9 @@ Key facts:
 - [What a website costs in Pakistan](https://aiwebtools.pk/guides/website-cost-pakistan/): The parts of a WordPress and Elementor website's cost in Pakistan: build, domain, hosting, Elementor Pro and maintenance, with AI Web Tools' prices.
 - [Ordering from outside Pakistan](https://aiwebtools.pk/guides/order-from-abroad/): Ordering an AI Web Tools Elementor Pro activation from outside Pakistan: rupee payment only, the countries we describe, and what to check first.
 - [When Elementor Pro expires](https://aiwebtools.pk/guides/elementor-pro-expired/): What happens when Elementor Pro expires: pages, templates, forms and popups keep working; updates and the Pro template library stop.
+- [Is there a lifetime Elementor Pro?](https://aiwebtools.pk/guides/elementor-pro-lifetime/): Is there a lifetime Elementor Pro license? What Elementor sells, what 'lifetime' offers from third parties usually are, and what to ask before paying.
+- [Can you get Elementor Pro free?](https://aiwebtools.pk/guides/elementor-pro-free/): Can you get Elementor Pro free? What the free plugin includes, what GitHub and Reddit downloads really are, and low-cost legal ways to get Pro features.
+- [Elementor Pro discounts and coupons](https://aiwebtools.pk/guides/elementor-pro-discount/): Elementor Pro discount codes, coupons and sales: where real promotions appear, why most coupon pages are stale, and legal yearly prices in PKR.
 
 ## Guides: Setup and how-to
 - [How to install Elementor Pro](https://aiwebtools.pk/guides/install-elementor-pro/): Install free Elementor, then add and connect Elementor Pro from your own account or through an AI Web Tools activation. Checks and common mistakes.
@@ -44,6 +50,7 @@ Key facts:
 - [Import a template kit](https://aiwebtools.pk/guides/import-template-kit/): Import an Elementor website kit, understand which kits need Pro, and clean up afterwards so a kit becomes your site rather than a demo.
 - [Move an Elementor site to a new domain](https://aiwebtools.pk/guides/move-site-new-domain/): Move a WordPress and Elementor site to a new domain: migrate, replace URLs, regenerate CSS and reconnect Pro. Includes the AI Web Tools activation move.
 - [Update Elementor safely](https://aiwebtools.pk/guides/update-elementor-safely/): A safe routine for updating Elementor and Elementor Pro: backup, update both together, regenerate CSS, check key pages, and roll back if needed.
+- [Elementor form to Google Sheets](https://aiwebtools.pk/guides/form-to-google-sheets/): Send Elementor Pro form submissions to a Google Sheet for free with the Webhook action and a short Google Apps Script web app. Step by step, with a test.
 
 ## Guides: Troubleshooting
 - [Form emails not arriving](https://aiwebtools.pk/guides/form-emails-not-sending/): Why Elementor form emails go missing and how to fix it: SMTP, a From address on your own domain, SPF and DKIM, spam folders and saved submissions.
@@ -67,6 +74,7 @@ Key facts:
 - [Elementor Pro vs free add-on packs](https://aiwebtools.pk/guides/pro-vs-free-addons/): Can free Elementor add-on packs replace Elementor Pro? What they cover, what they cannot, and the hidden costs of stacking add-ons on a business site.
 - [Elementor vs WPBakery and Beaver](https://aiwebtools.pk/guides/elementor-vs-wpbakery/): Elementor Pro compared with WPBakery and Beaver Builder on price in rupees, editing experience, clean-up when switching away, and who still uses each.
 - [Buy direct or via AI Web Tools?](https://aiwebtools.pk/guides/buy-direct-vs-aiwebtools/): When buying Elementor Pro directly from Elementor is the right call, when an AI Web Tools activation fits better, and the trade-offs, stated plainly.
+- [Elementor One vs Elementor Pro](https://aiwebtools.pk/guides/elementor-one-vs-pro/): Elementor One vs Elementor Pro: Editor Pro is the yearly per-site page builder plan, One is Elementor's larger bundle. Which you need and what we activate.
 
 ## Guides: Security and GPL
 - [GPL vs nulled vs genuine](https://aiwebtools.pk/guides/gpl-and-wordpress-plugins/): What the GPL means for WordPress plugins like Elementor Pro, why 'GPL sites' exist, how nulled copies differ, and where an AI Web Tools activation fits.

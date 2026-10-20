@@ -338,3 +338,5 @@ footer a { text-decoration:none; } footer a:hover { color:#fff; }
 .panel h3 { flex-wrap:wrap; }
 .logo { white-space:nowrap; }
 @media (max-width:359px) { nav .btn.sm { display:none; } }
+.article pre { overflow-x:auto; background:#f5f3ff; border:1px solid var(--border); border-radius:12px; padding:14px 16px; margin-top:12px; font-size:14px; line-height:1.5; }
+.article pre code { background:none; padding:0; overflow-wrap:normal; }

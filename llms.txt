@@ -1,0 +1,112 @@
+# ToolBazaar
+
+> ToolBazaar is a small, independent service based in Pakistan that installs and activates the genuine, unmodified Elementor Pro plugin on a customer's WordPress website for ₨799 a year, under ToolBazaar's own Elementor Pro agency subscription. Customers pay in Pakistani rupees and order on WhatsApp. ToolBazaar is not affiliated with, endorsed by or an authorised reseller of Elementor Ltd.
+
+Key facts:
+- Price: ₨799 per website per year (about US$2.85 at ₨280 per dollar). 10 or more websites: ₨599 each per year. Pro + Care (activation plus monthly backups, updates and small fixes): ₨2,999 per year. Website + Pro (site built by ToolBazaar): from ₨25,000 one-time.
+- The customer gets: the unmodified Elementor Pro plugin activated on one website, updates from Elementor and the Pro template library for 12 months, and WhatsApp support.
+- The customer does not get: an Elementor account or license key in their own name, Elementor's own support tickets, AI credits, hosting or a domain.
+- Activation: usually within about 1 hour during 10am–10pm Pakistan time, through a temporary WordPress admin login that expires on its own.
+- Refund: full refund if ToolBazaar cannot activate Pro on the site. Renewal reminder 15 days before the 12 months end.
+- Payment: JazzCash, Easypaisa, Raast or bank transfer, in Pakistani rupees only. Customers outside Pakistan must confirm a rupee payment route on WhatsApp before paying.
+- Buying directly from Elementor costs $60 a year for one site on the Essential plan (about ₨16,800), paid by international card.
+
+## Main pages
+- [Elementor Pro price in Pakistan](https://toolbazaar.pk/): the offer, plans, comparison with buying directly, FAQ
+- [Guides](https://toolbazaar.pk/guides/): index of answer-first guides
+
+## Guides: Buying, licensing and pricing
+- [What a Pro license includes](https://toolbazaar.pk/guides/elementor-pro-license/): What you get with an Elementor Pro license from Elementor, what you get from a ToolBazaar activation at ₨799, and the honest differences between the two.
+- [How activation works](https://toolbazaar.pk/guides/elementor-pro-activation/): How Elementor Pro activation works, what ToolBazaar does on your site through a temporary login, what we never touch, and how updates arrive.
+- [Elementor Pro price in PKR](https://toolbazaar.pk/guides/elementor-pro-price-in-pkr/): Elementor Pro costs $60 a year from Elementor, about ₨16,800 at ₨280 per dollar plus bank charges. ToolBazaar activates it for ₨799 a year.
+- [Is Elementor Pro worth it?](https://toolbazaar.pk/guides/is-elementor-pro-worth-it/): When Elementor Pro is worth paying for, when the free plugin is enough, what it costs per month in rupees, and the downsides nobody mentions.
+- [Refunds and renewals](https://toolbazaar.pk/guides/refunds-and-renewals/): ToolBazaar's refund rule, how the 12-month Elementor Pro activation renews for ₨799, what happens if you do not renew, and how moving an activation works.
+- [Paying for Elementor from Pakistan](https://toolbazaar.pk/guides/pay-elementor-pakistan/): Ways to pay for Elementor Pro from Pakistan: a card enabled for international payments, a virtual card, or a rupee activation from ToolBazaar.
+- [How to pay ToolBazaar](https://toolbazaar.pk/guides/how-to-pay-toolbazaar/): Paying ToolBazaar ₨799 for an Elementor Pro activation by JazzCash, Easypaisa, Raast or bank transfer, and what to send on WhatsApp afterwards.
+- [Pricing an Elementor website](https://toolbazaar.pk/guides/freelancer-pricing-pk/): A simple way for freelancers to price an Elementor website in Pakistan: count pages and features, add yearly costs like Pro and hosting, quote clearly.
+- [Elementor Pro for Upwork and Fiverr clients](https://toolbazaar.pk/guides/elementor-for-upwork/): Building Elementor sites for clients abroad on Upwork or Fiverr: whose license to use, when the client should buy their own, and how to hand over cleanly.
+- [What a website costs in Pakistan](https://toolbazaar.pk/guides/website-cost-pakistan/): The parts of a WordPress and Elementor website's cost in Pakistan: build, domain, hosting, Elementor Pro and maintenance, with ToolBazaar's prices.
+- [Ordering from outside Pakistan](https://toolbazaar.pk/guides/order-from-abroad/): Ordering a ToolBazaar Elementor Pro activation from outside Pakistan: rupee payment only, the countries we describe, and what to check first.
+- [When Elementor Pro expires](https://toolbazaar.pk/guides/elementor-pro-expired/): What happens when Elementor Pro expires: pages, templates, forms and popups keep working; updates and the Pro template library stop.
+
+## Guides: Setup and how-to
+- [How to install Elementor Pro](https://toolbazaar.pk/guides/install-elementor-pro/): Install free Elementor, then add and connect Elementor Pro from your own account or through a ToolBazaar activation. Checks and common mistakes.
+- [Theme Builder explained](https://toolbazaar.pk/guides/elementor-theme-builder/): How the Elementor Pro Theme Builder works: template types, display conditions, and the order to build a header, footer and post layout in.
+- [Popup Builder guide](https://toolbazaar.pk/guides/elementor-popups/): Build a popup in Elementor Pro and control when it shows: conditions, triggers, advanced rules, and how to open a popup from a button.
+- [Form to WhatsApp](https://toolbazaar.pk/guides/elementor-form-whatsapp/): Make an Elementor Pro form email you the lead and then open a WhatsApp chat with a pre-written message. Step by step, with the limits explained.
+- [Loop Builder and Loop Grid](https://toolbazaar.pk/guides/elementor-loop-grid/): Design one card in the Elementor Pro Loop Builder and repeat it for posts, products or listings with the Loop Grid. How it works, step by step.
+- [Dynamic tags and custom fields](https://toolbazaar.pk/guides/elementor-dynamic-tags/): Use Elementor Pro dynamic tags to show post data and custom fields from plugins such as ACF in any widget. Setup, examples and common errors.
+- [WooCommerce product template](https://toolbazaar.pk/guides/woo-product-template/): Build a custom single product template for WooCommerce with Elementor Pro: the widgets to use, a layout that sells on mobile, and checks before launch.
+- [WooCommerce checkout with Elementor](https://toolbazaar.pk/guides/woo-checkout-design/): Restyle the WooCommerce cart, checkout and My Account pages with Elementor Pro's widgets, and keep checkout short for buyers in Pakistan.
+- [Add Meta Pixel and GA4](https://toolbazaar.pk/guides/add-pixel-elementor/): Add tracking codes such as the Meta Pixel and Google Analytics 4 site-wide with Elementor Pro's Custom Code screen, and check that they fire.
+- [Role Manager for clients](https://toolbazaar.pk/guides/elementor-role-manager/): Use Elementor's Role Manager to give clients or staff content-only access so they can change text and images without breaking the design.
+- [Global colours and fonts](https://toolbazaar.pk/guides/global-colors-fonts/): Set global colours and fonts in Elementor Site Settings before building, so the whole site changes from one place. A short setup routine.
+- [Import a template kit](https://toolbazaar.pk/guides/import-template-kit/): Import an Elementor website kit, understand which kits need Pro, and clean up afterwards so a kit becomes your site rather than a demo.
+- [Move an Elementor site to a new domain](https://toolbazaar.pk/guides/move-site-new-domain/): Move a WordPress and Elementor site to a new domain: migrate, replace URLs, regenerate CSS and reconnect Pro. Includes the ToolBazaar activation move.
+- [Update Elementor safely](https://toolbazaar.pk/guides/update-elementor-safely/): A safe routine for updating Elementor and Elementor Pro: backup, update both together, regenerate CSS, check key pages, and roll back if needed.
+
+## Guides: Troubleshooting
+- [Form emails not arriving](https://toolbazaar.pk/guides/form-emails-not-sending/): Why Elementor form emails go missing and how to fix it: SMTP, a From address on your own domain, SPF and DKIM, spam folders and saved submissions.
+- [Editor not loading](https://toolbazaar.pk/guides/editor-not-loading/): Elementor stuck on the loading screen or a blank editor? Check memory, PHP version, plugin conflicts with Safe Mode, caching and the loader setting.
+- [Pro license not connecting](https://toolbazaar.pk/guides/license-not-connecting/): Why Elementor Pro shows as not connected or not activated: URL mismatch, blocked outbound requests, moved sites and duplicate copies. What to check first.
+- [Speed up an Elementor site](https://toolbazaar.pk/guides/speed-up-elementor/): A practical checklist to make an Elementor site faster: hosting, images, fonts, containers, Elementor's performance settings and caching.
+
+## Guides: WordPress basics
+- [Which theme to use with Elementor](https://toolbazaar.pk/guides/theme-for-elementor/): Which theme to pair with Elementor Pro: why a light theme such as Hello suits the Theme Builder, and when Astra, Kadence or GeneratePress make sense.
+- [Hosting for Elementor](https://toolbazaar.pk/guides/hosting-for-elementor/): What hosting an Elementor site needs: PHP version, memory, storage, server location and backups. Questions to ask a host before you buy.
+- [Back up a WordPress site](https://toolbazaar.pk/guides/backup-wordpress-site/): Back up a WordPress site the simple, reliable way: files and database, automatic schedule, copies stored off the server, and a restore you have tested.
+- [Landing page structure](https://toolbazaar.pk/guides/landing-page-structure/): A simple landing page structure for ads and offers: one goal, headline, proof, offer, form and FAQ, built with Elementor Pro. Section by section.
+- [Is a temporary login safe?](https://toolbazaar.pk/guides/temporary-login-safety/): How the Temporary Login Without Password plugin works, why it is safer than sharing a password, and the settings to use when a developer needs access.
+
+## Guides: Comparisons
+- [Elementor free vs Pro](https://toolbazaar.pk/guides/elementor-pro-vs-free/): Free Elementor vs Elementor Pro: what each includes, when free is enough, when you need Pro, and what Pro costs in Pakistan.
+- [Elementor vs Divi vs Bricks](https://toolbazaar.pk/guides/elementor-vs-divi-bricks/): Elementor Pro, Divi and Bricks compared on price in rupees, learning curve, code output and who each suits. ToolBazaar sells Elementor Pro only.
+- [Elementor vs Gutenberg](https://toolbazaar.pk/guides/elementor-vs-gutenberg/): Elementor Pro compared with WordPress's built-in block editor: ease of design, speed, cost, site editing and which suits a small business site in 2026.
+- [WordPress + Elementor vs Wix](https://toolbazaar.pk/guides/elementor-vs-wix/): WordPress with Elementor compared with Wix for a small business: ownership, cost in dollars or rupees, flexibility, WooCommerce, and who should pick which.
+- [WooCommerce + Elementor vs Shopify](https://toolbazaar.pk/guides/elementor-vs-shopify/): Selling online from Pakistan: WooCommerce with Elementor Pro compared with Shopify on cost, payments, cash on delivery, design and control.
+- [Elementor Pro vs free add-on packs](https://toolbazaar.pk/guides/pro-vs-free-addons/): Can free Elementor add-on packs replace Elementor Pro? What they cover, what they cannot, and the hidden costs of stacking add-ons on a business site.
+- [Elementor vs WPBakery and Beaver](https://toolbazaar.pk/guides/elementor-vs-wpbakery/): Elementor Pro compared with WPBakery and Beaver Builder on price in rupees, editing experience, clean-up when switching away, and who still uses each.
+- [Buy direct or via ToolBazaar?](https://toolbazaar.pk/guides/buy-direct-vs-toolbazaar/): When buying Elementor Pro directly from Elementor is the right call, when a ToolBazaar activation fits better, and the trade-offs of each, stated plainly.
+
+## Guides: Security and GPL
+- [GPL vs nulled vs genuine](https://toolbazaar.pk/guides/gpl-and-wordpress-plugins/): What the GPL means for WordPress plugins like Elementor Pro, why 'GPL sites' exist, how nulled copies differ, and where a ToolBazaar activation fits.
+- [Nulled plugin risks](https://toolbazaar.pk/guides/nulled-plugin-risks/): What nulled plugins are, what they commonly hide, and the warning signs that a WordPress site is running one. Written for Elementor users in Pakistan.
+- [Remove a nulled plugin](https://toolbazaar.pk/guides/remove-nulled-plugin/): Clean up after a nulled Elementor Pro or other plugin: backup, remove, scan, check users and files, change passwords, then install the genuine plugin.
+- [WordPress security basics](https://toolbazaar.pk/guides/plugin-security-basics/): The WordPress security basics that prevent most problems: updates, few plugins, strong logins with two-factor, backups, HTTPS and least-privilege users.
+
+## Guides: Local business websites
+- [Clinic appointment form](https://toolbazaar.pk/guides/doctor-appointment-form/): An appointment request form for a clinic with Elementor Pro: doctor and time fields, email to reception, WhatsApp redirect, minimal patient data.
+- [Restaurant menu page](https://toolbazaar.pk/guides/restaurant-menu-page/): Build a restaurant menu page staff can update: Price List widget, sections by category, deal popup, WhatsApp order button, and fast loading on mobile data.
+- [School admission form](https://toolbazaar.pk/guides/school-admission-form/): An admission enquiry form for a school or academy with Elementor Pro: fields, file upload, email to the office and saved submissions.
+- [Property listing site](https://toolbazaar.pk/guides/property-listing-site/): Build a property listing site with Elementor Pro: custom post type, size in marla and kanal, Loop Grid cards, filters and WhatsApp enquiries.
+- [Salon and parlour website](https://toolbazaar.pk/guides/salon-booking-website/): Plan a salon or beauty parlour website with Elementor Pro: services and prices, booking request form, gallery, location, WhatsApp and local search basics.
+- [Online store with cash on delivery](https://toolbazaar.pk/guides/online-store-cod/): Set up a WooCommerce store with cash on delivery in Pakistan: enable COD, delivery charges by city, order confirmation calls, and an Elementor Pro design.
+- [NGO donation page](https://toolbazaar.pk/guides/ngo-donation-page/): Build a donation page for a Pakistani NGO or charity with Elementor Pro: clear cause, bank and wallet details, pledge form, reporting and trust signals.
+- [Tuition academy website](https://toolbazaar.pk/guides/tuition-academy-site/): Plan a website for a tuition academy or coaching centre with Elementor Pro: courses and fees, timetable, results, registration form and WhatsApp.
+
+## Guides: SEO, local SEO and AI search
+- [Google Business Profile and your site](https://toolbazaar.pk/guides/google-business-website/): How a Google Business Profile and an Elementor website work together for local search: consistent details, links, map, reviews and schema.
+- [Local SEO for Elementor sites](https://toolbazaar.pk/guides/local-seo-elementor/): Local SEO basics for an Elementor site in Pakistan: city and service pages, consistent business details, local schema, speed on mobile data, and reviews.
+- [Being cited by AI assistants](https://toolbazaar.pk/guides/ai-search-for-business/): What helps a small business site get cited by AI assistants: answer-first pages, clear facts, structured data, crawler access, consistency.
+- [SEO basics for Elementor](https://toolbazaar.pk/guides/elementor-seo-basics/): On-page SEO for Elementor sites: one H1, correct heading levels, titles and descriptions with Rank Math or Yoast, alt text, speed and structured data.
+
+
+## Use cases
+- [Elementor Pro for agencies](https://toolbazaar.pk/elementor-pro-for-agencies/): Activate Elementor Pro on 10 or more client websites at ₨599 each per year, with one WhatsApp thread and renewal reminders. Genuine plugin.
+- [Elementor Pro for freelancers](https://toolbazaar.pk/elementor-pro-for-freelancers/): How Pakistani freelancers deliver Elementor Pro sites without a dollar card: ₨799 a year per site in the quote, activated in about an hour.
+- [Elementor Pro for woocommerce stores](https://toolbazaar.pk/elementor-pro-for-woocommerce/): Design custom product, cart and checkout pages with Elementor Pro's WooCommerce Builder for ₨799 a year. What Pro does and what it does not.
+- [Elementor Pro for landing pages](https://toolbazaar.pk/elementor-pro-for-landing-pages/): Build ad landing pages with Elementor Pro's Form widget, Popup Builder, motion effects and custom code for pixels, activated for ₨799 a year by ToolBazaar.
+- [Elementor Pro for real estate](https://toolbazaar.pk/elementor-pro-for-real-estate/): List plots, houses and flats with Elementor Pro's Loop Grid, dynamic tags and filters, with enquiries to WhatsApp. Activated for ₨799 a year.
+- [Elementor Pro for restaurants](https://toolbazaar.pk/elementor-pro-for-restaurants/): Menus with the Price List widget, table-booking forms, maps and deal popups with Elementor Pro, activated by ToolBazaar for ₨799 a year.
+- [Elementor Pro for schools](https://toolbazaar.pk/elementor-pro-for-schools/): Admissions forms, a notice board the office can update, staff profiles and fee tables with Elementor Pro, activated by ToolBazaar for ₨799 a year.
+- [Elementor Pro for clinics](https://toolbazaar.pk/elementor-pro-for-clinics/): Appointment request forms, doctor profiles with timings, services and a map with Elementor Pro for ₨799 a year, plus notes on patient data.
+
+## Countries
+- [Elementor Pro in India](https://toolbazaar.pk/elementor-pro-india/): Elementor Pro on your WordPress site for ₨799 a year (about US$2.85). What Indian freelancers and agencies should check before ordering from ToolBazaar.
+- [Elementor Pro in Bangladesh](https://toolbazaar.pk/elementor-pro-bangladesh/): Elementor Pro activated on your WordPress site for ₨799 a year (about US$2.85), no dual-currency card needed. How ordering from Bangladesh works.
+- [Elementor Pro in UAE](https://toolbazaar.pk/elementor-pro-uae/): Elementor Pro activated on a WordPress site for ₨799 a year, paid in Pakistani rupees. For Pakistani freelancers and agencies in Dubai and Abu Dhabi.
+- [Elementor Pro in Saudi Arabia](https://toolbazaar.pk/elementor-pro-saudi-arabia/): Genuine Elementor Pro activated on a WordPress site for ₨799 a year, paid in Pakistani rupees. For the Pakistani community in Riyadh, Jeddah and Dammam.
+- [Elementor Pro in Nigeria](https://toolbazaar.pk/elementor-pro-nigeria/): Elementor Pro activated on your WordPress site for ₨799 a year (about US$2.85), no dollar card needed. Read this before ordering from Nigeria.
+- [Elementor Pro in Kenya](https://toolbazaar.pk/elementor-pro-kenya/): Elementor Pro activated on a WordPress site for ₨799 a year (about US$2.85), no card needed. How Kenyan freelancers and businesses can order.
+- [Elementor Pro in Sri Lanka](https://toolbazaar.pk/elementor-pro-sri-lanka/): Elementor Pro activated on a WordPress site for ₨799 Pakistani rupees a year (about US$2.85). For Sri Lankan designers, hotels and small businesses.
+- [Elementor Pro in Nepal](https://toolbazaar.pk/elementor-pro-nepal/): Elementor Pro activated on a WordPress site for ₨799 Pakistani rupees a year (about US$2.85), no dollar card. For Nepali agencies and businesses.

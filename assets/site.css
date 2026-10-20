@@ -1,4 +1,4 @@
-/* ToolBazaar shared styles. Bump ?v= in _build/build.py after editing. */
+/* AI Web Tools shared styles. Bump ?v= in _build/build.py after editing. */
 :root {
   --primary:#7c3aed; --primary-ink:#2e1065; --primary-soft:#ede9fe; --lilac:#a78bfa;
   --wa:#25d366; --bg:#faf5ff; --card:#fff; --text:#1e1b2e; --muted:#475569; --border:#ddd6fe;
@@ -335,3 +335,6 @@ footer a { text-decoration:none; } footer a:hover { color:#fff; }
 .cat { color:var(--primary-ink); font-size:21px; margin:40px 0 14px; scroll-margin-top:90px; }
 .cat:first-of-type { margin-top:8px; }
 .article code { overflow-wrap:anywhere; background:#f5f3ff; padding:1px 5px; border-radius:5px; font-size:.92em; }
+.panel h3 { flex-wrap:wrap; }
+.logo { white-space:nowrap; }
+@media (max-width:359px) { nav .btn.sm { display:none; } }
